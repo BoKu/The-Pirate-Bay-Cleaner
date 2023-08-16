@@ -1,3 +1,24 @@
+### ***** UPDATED (1st June 2022) *****
+Some minor bug fixes
+
+### ***** UPDATED (3rd May 2022) *****
+Re-added supported for pirateproxy.surf
+
+Added remember downloaded torrent feature.
+
+Fixed screen resolution issues on smaller screen scrolling.
+
+Some minor bug fixes
+
+I expect version 6 to support 1337x.to and rarbg.to
+
+### ***** UPDATED (19th April 2022) *****
+Added a couple new features
+
+Updated required JS libraries
+
+I expect version 6 to support 1337x.to and rarbg.to
+
 ### ***** UPDATED (21st November 2020) *****
 Brand new, and rewritten!
 
