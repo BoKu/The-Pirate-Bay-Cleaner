@@ -1,5 +1,5 @@
 ### ***** UPDATED (1st June 2022) *****
-Some minor bug fixes
+Some minor bug fixes.
 
 ### ***** UPDATED (3rd May 2022) *****
 Re-added supported for pirateproxy.surf
